@@ -1,4 +1,1 @@
-9de5227e91a325165859b871ffe9b1a67504f63871032ddc31abace00be61392 *config.seed
-f4816da0f1d34230a78941ebf75505b46898f98d391e5d4bebc3eb9770894a3b *openwrt-18.001.00-2.0.11-ramips-mt76x8-device-widora-neo-16m-rootfs.tar.gz
-ba4617e4b039e92b2bbaa10523b8ecb6d62e601e43a34479ad07185560744558 *openwrt-18.001.00-2.0.11-ramips-mt76x8-device-widora-neo-16m.manifest
-26a288cf6ca0debb827b78e77f87e79786822d39c1dd8e6a8acbd86d2858e863 *openwrt-18.001.00-2.0.11-ramips-mt76x8-widora_neo-16m-squashfs-sysupgrade.bin
+955af7c138b088885972a77baee2db0f7859c2c45ccec3c022b37603816e985f *openwrt-18.001.00-2.0.11-ramips-mt76x8-widora_neo-16m-squashfs-sysupgrade.bin
